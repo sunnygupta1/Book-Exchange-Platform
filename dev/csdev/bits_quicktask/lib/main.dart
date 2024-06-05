@@ -9,7 +9,7 @@ import 'package:bits_quicktask/login_page.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   final keyApplicationId = 'iFcrFpmV1W2GEle0w33mEi0l92eQqG7vfQngfKs0';
-  final keyClientKey = 'QUOpbIQv60UpTmEIOILyLN7YfAm14ZhD1dwvNTEB';
+  final keyClientKey = 'yllMqb6cwLUX6PIFfOYqPmVwVLtPRIAGUwGwT5w6';
   final keyParseServerUrl = 'https://parseapi.back4app.com';
 
   await Parse().initialize(
